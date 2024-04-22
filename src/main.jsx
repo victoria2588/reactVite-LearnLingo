@@ -13,7 +13,7 @@ import MyStyleSheetManager from "./component/TeachersListCards/TeachersReadMore.
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <PersistGate loading={null} persistor={persistor}>
-      <BrowserRouter>
+      <BrowserRouter basename="/reactVite-LearnLingo/">
         <Provider store={store}>
           <MyStyleSheetManager>
             <App />

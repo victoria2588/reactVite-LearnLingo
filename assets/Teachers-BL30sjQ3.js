@@ -1,4 +1,4 @@
-import{u as a,c as l,a as u,s as h,r as p,j as e,p as c,b as g,g as m}from"./index-BqfYjf1K.js";import{T as b}from"./TeachersCard-BYOz_0mn.js";const f=a.ul`
+import{u as a,c as l,a as u,s as h,r as p,j as e,p as c,b as g,g as m}from"./index-CNIB65Bm.js";import{T as b}from"./TeachersCard-BB-6PMFI.js";const f=a.ul`
   width: 100%;
   height: 100%;
   display: flex;
